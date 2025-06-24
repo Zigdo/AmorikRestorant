@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #90D1CA;
+}
+.menu{
+    background-color: #FFFBDE;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    color: #096B68;
+    height: 90%;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 20px;
+}
+h2{
+    font-size: 2rem;
+}
+.menu > p{
+    font-style: italic;
+    font-size: small;
+}
+section{
+    padding: 15px;
+}
+footer > p{
+    font-style: italic;
+    font-size: small;
+}
+.symbol{
+    width: 50px;
+}
